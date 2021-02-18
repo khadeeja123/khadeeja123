@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadeeja123&label=Profile%20views&color=0e75b6&style=flat" alt="khadeeja123" /> </p>
 
-- 🔭 I’m currently working on **nodejs**
+- 🔭 I’m currently working on **blockchain**
 
 - 🌱 I’m currently learning **nodejs, mongodb, MERN**
 
