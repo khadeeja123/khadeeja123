@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadeeja123&label=Profile%20views&color=0e75b6&style=flat" alt="khadeeja123" /> </p>
 
-- 🔭 I’m currently working on **blockchain**
+- 🔭 I’m currently working on **React and blockchain**
 
-- 🌱 I’m currently learning **nodejs, mongodb, MERN**
+- 🌱 I have learnt **nodejs, mongodb, docker, git**
 
-- 👯 I’m looking to collaborate on **full stack**
+- 👯 I’m looking to collaborate on **full stack** and to learn **AWS**
 
 - 💬 Ask me about **problem solving**
 
